@@ -1,0 +1,5 @@
+_assetic:
+    resource: .
+    type: assetic
+_app:
+    resource: /home/paulius/Documents/learning_symfony/app/config/routing_dev.yml
